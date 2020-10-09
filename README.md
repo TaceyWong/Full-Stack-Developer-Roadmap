@@ -111,7 +111,7 @@ https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12
 
 ## CI/CD 🧪
 
-+ ✨ [Testing your code](https://dev.to/thejessleigh/different-types-of-testing-explained-1ljo)[测试你的代码]()
++ ✨ [Testing your code](https://dev.to/thejessleigh/different-types-of-testing-explained-1ljo)[(x)测试你的代码]()
 + 🎉 [Jenkins](https://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf)[]()
 + 💫 [TravisCI](https://github.com/dwyl/learn-travis)[]()
 
@@ -121,8 +121,8 @@ https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12
 + ⭐️ [KISS](https://dev.to/getd/kiss-keep-it-simple-short-my-tech-writing-principal-jjn)[]()
 + 💥 [YAGNI](https://dev.to/gonedark/practicing-yagni-3n1d)[]()
 + ✨ [DRY](https://dev.to/codemouse92/clean-dry-solid-spaghetti-1lgm)[]()
-+ 🎉 [Domain-Driven Design](http://www.infoq.com/minibooks/domain-driven-design-quickly)[领域驱动设计]()
-+ 🌟 [Test Driven Development](https://github.com/grzesiek-galezowski/tdd-ebook)[测试驱动开发]()
++ 🎉 [Domain-Driven Design](http://www.infoq.com/minibooks/domain-driven-design-quickly) | [领域驱动设计](https://www.infoq.cn/minibook/domain-driven-design-quickly)
++ 🌟 [Test Driven Development](https://github.com/grzesiek-galezowski/tdd-ebook)[(x)测试驱动开发]()
 
 ## Software Architecture 🏯
 
@@ -132,21 +132,21 @@ https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12
 
 ## Containers 🧊
 
-+ ✨ [Docker Fundamentals](https://dev.to/skaytech/docker-fundamentals-2ibi)[]()
-+ 🎉 [Docker Cookbook](https://www.packtpub.com/free-ebooks/docker-cookbook-second-edition)[]()
-+ 💫 [Kubernetes Cookbook](https://www.packtpub.com/free-ebooks/kubernetes-cookbook-second-edition)[]()
++ ✨ [Docker Fundamentals](https://dev.to/skaytech/docker-fundamentals-2ibi)[(x)Docker基础]()
++ 🎉 [Docker Cookbook](https://www.packtpub.com/free-ebooks/docker-cookbook-second-edition)
++ 💫 [Kubernetes Cookbook](https://www.packtpub.com/free-ebooks/kubernetes-cookbook-second-edition)
 
 ## Servers 📬
 
-+ ☄️ [Nginx Handbook](https://github.com/trimstray/nginx-admins-handbook)[]()
-+ 💡 [Apache](https://httpd.apache.org/)[]()
-+ 💥 [Caddy](https://caddyserver.com/)[]()
++ ☄️ [Nginx Handbook](https://github.com/trimstray/nginx-admins-handbook)[(x)Nginx手册]()
++ 💡 [Apache](https://httpd.apache.org/)
++ 💥 [Caddy](https://caddyserver.com/)
 
 ## Scalability ⚖️
 
-+ 💫 [Distributed Systems](http://book.mixu.net/distsys/single-page.html)[分布式系统]()
++ 💫 [Distributed Systems](http://book.mixu.net/distsys/single-page.html)[(x)分布式系统]()
 + ☄️ [System Design Primer](https://github.com/donnemartin/system-design-primer)[系统设计基础]()
-+ ✨ [Real-World Maintainable Software](https://www.oreilly.com/content/real-world-maintainable-software/)[]()
-+ 🎉 [The 12 Factor App](https://12factor.net/)[]()
-+ 🌟 [Architecting Frontend Projects To Scale](https://dev.to/mmcshinsky/why-frontend-architecture-matters-1ldj)[]()
++ ✨ [Real-World Maintainable Software](https://www.oreilly.com/content/real-world-maintainable-software/)[(x)现实世界中可维护的软件]()
++ 🎉 [The 12 Factor App](https://12factor.net/) | [12 Factor](https://12factor.net/zh_cn/)
++ 🌟 [Architecting Frontend Projects To Scale](https://dev.to/mmcshinsky/why-frontend-architecture-matters-1ldj)[(x)设计可扩展的前端项目]()
 
