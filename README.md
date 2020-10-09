@@ -26,7 +26,7 @@
 
 ## How The Internet Works 💻
 
-+ ✨ [What happens when you go to google.com?](./contents/what-happens-when-you-go-to-google-com.rst)[当你访问谷歌的时候发生了什么？](./contents/what-happens-when-you-go-to-google-com_zh.rst)
++ ✨ [What happens when you go to google.com?](./contents/what-happens-when-you-go-to-google-com.rst) | [当你访问谷歌的时候发生了什么？](./contents/what-happens-when-you-go-to-google-com_zh.rst)
 + 🎉 [Introduction to Networks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)[]()
 + 💫 [Browser Networking](https://hpbn.co/)[浏览器网络]()
 + 🎊 [IP Addressing](https://pages.di.unipi.it/ricci/501302.pdf)[IP地址]()
