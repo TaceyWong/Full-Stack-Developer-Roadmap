@@ -6,23 +6,23 @@
 
 #### Table Of Contents
 
-+ 💻 [How The Internet Works | 英特网是怎么工作的](#how-the-internet-work-)
++ 💻 [How The Internet Works | 英特网是怎么工作的](#how-the-internet-works-)
 + 🔚 [Advanced Front End | 高级前端](#advanced-front-end-)
 + 🖥 [Operating Systems | 操作系统](#operatin-systems-)
 + 📕 [Languages | 编程语言](#languages-)
 + 🖲 [Version Control | 版本控制](#version-control-)
 + 📓 [Database Concepts](#database-concepts-)
-+ 📔 [Relational Databases]#relational-databases-)
++ 📔 [Relational Databases](#relational-databases-)
 + 📗 [NoSQL Databases](#nosql-databases-)
-+ 📨 [APIs](#apis)
++ 📨 [APIs](#apis-)
 + ♻️ [Caching](#caching-)
 + 🔒 [Security](#security-)
 + 🧪 [CI/CD | 持续集成/持续部署](#ci-cd)
 + 📙 [Development Concepts](#development-concepts-)
 + 🏯 [Software Architecture | 软件架构](#software-architecture-)
-+ 🧊 [Containers | 容器](#containers)
++ 🧊 [Containers | 容器](#containers-)
 + 📬 [Servers | 服务器](#servers-)
-+ ⚖️ [Scalablity | 扩展性](#scalablity-)
++ ⚖️ [Scalability | 扩展性](#scalability-)
 
 ## How The Internet Works 💻
 
